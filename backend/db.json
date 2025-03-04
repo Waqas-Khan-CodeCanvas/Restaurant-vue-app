@@ -1,0 +1,749 @@
+{
+    "users":[
+        {
+              "id": 1,
+              "name": "Ahmed Ali",
+              "email": "ahmed.ali@example.com",
+              "password": "password123"
+            },
+            {
+              "id": 2,
+              "name": "Fatima Noor",
+              "email": "fatima.noor@example.com",
+              "password": "securepass456"
+            },
+            {
+              "id": 3,
+              "name": "Mohammed Hassan",
+              "email": "mohammed.hassan@example.com",
+              "password": "hassan789"
+            },
+            {
+              "id": 4,
+              "name": "Ayesha Khan",
+              "email": "ayesha.khan@example.com",
+              "password": "ayesha2023"
+            },
+            {
+              "id": 5,
+              "name": "Omar Farooq",
+              "email": "omar.farooq@example.com",
+              "password": "omarSecure1"
+            },
+            {
+              "id": 6,
+              "name": "Zainab Fatima",
+              "email": "zainab.fatima@example.com",
+              "password": "zainab987"
+            },
+            {
+              "id": 7,
+              "name": "Abdullah Malik",
+              "email": "abdullah.malik@example.com",
+              "password": "malikStrong!"
+            },
+            {
+              "id": 8,
+              "name": "Hafsa Ahmed",
+              "email": "hafsa.ahmed@example.com",
+              "password": "hafsa789"
+            },
+            {
+              "id": 9,
+              "name": "Yusuf Ibrahim",
+              "email": "yusuf.ibrahim@example.com",
+              "password": "yusufPass99"
+            },
+            {
+              "id": 10,
+              "name": "Maryam Siddiqi",
+              "email": "maryam.siddiqi@example.com",
+              "password": "maryamPwd!"
+            },
+            {
+              "id": 11,
+              "name": "Bilal Ahmed",
+              "email": "bilal.ahmed@example.com",
+              "password": "bilal321"
+            },
+            {
+              "id": 12,
+              "name": "Khadijah Karim",
+              "email": "khadijah.karim@example.com",
+              "password": "khadijahPass1"
+            },
+            {
+              "id": 13,
+              "name": "Hamza Tariq",
+              "email": "hamza.tariq@example.com",
+              "password": "hamza1234"
+            },
+            {
+              "id": 14,
+              "name": "Aminah Yasir",
+              "email": "aminah.yasir@example.com",
+              "password": "aminahSecure12"
+            },
+            {
+              "id": 15,
+              "name": "Imran Qureshi",
+              "email": "imran.qureshi@example.com",
+              "password": "imran2023"
+            },
+            {
+              "id": 16,
+              "name": "Nadia Rahman",
+              "email": "nadia.rahman@example.com",
+              "password": "nadia0987"
+            },
+            {
+              "id": 17,
+              "name": "Ali Abbas",
+              "email": "ali.abbas@example.com",
+              "password": "aliStrong!"
+            },
+            {
+              "id": 18,
+              "name": "Rukhsar Jamil",
+              "email": "rukhsar.jamil@example.com",
+              "password": "rukhsar2023"
+            },
+            {
+              "id": 19,
+              "name": "Ibrahim Shaikh",
+              "email": "ibrahim.shaikh@example.com",
+              "password": "ibrahim007"
+            },
+            {
+              "id": 20,
+              "name": "Sara Zafar",
+              "email": "sara.zafar@example.com",
+              "password": "saraPass2"
+            },
+            {
+              "id": 21,
+              "name": "Abu Bakr",
+              "email": "abu.bakr@example.com",
+              "password": "abuBakr123"
+            },
+            {
+              "id": 22,
+              "name": "Sumayyah Najeeb",
+              "email": "sumayyah.najeeb@example.com",
+              "password": "sumayyahSecure3"
+            },
+            {
+              "id": 23,
+              "name": "Hassan Kamal",
+              "email": "hassan.kamal@example.com",
+              "password": "hassan888"
+            },
+            {
+              "id": 24,
+              "name": "Layla Saeed",
+              "email": "layla.saeed@example.com",
+              "password": "laylaPass4"
+            },
+            {
+              "id": 25,
+              "name": "Ismail Latif",
+              "email": "ismail.latif@example.com",
+              "password": "ismailStrong5"
+            },
+            {
+              "id": 26,
+              "name": "Sana Bashir",
+              "email": "sana.bashir@example.com",
+              "password": "sanaSecure5"
+            },
+            {
+              "id": 27,
+              "name": "Zaid Khan",
+              "email": "zaid.khan@example.com",
+              "password": "zaid2001"
+            },
+            {
+              "id": 28,
+              "name": "Rabia Salman",
+              "email": "rabia.salman@example.com",
+              "password": "rabiaPass123"
+            },
+            {
+              "id": 29,
+              "name": "Talha Iqbal",
+              "email": "talha.iqbal@example.com",
+              "password": "talha007"
+            },
+            {
+              "id": 30,
+              "name": "Yasmin Anwar",
+              "email": "yasmin.anwar@example.com",
+              "password": "yasminPass9"
+            },
+            {
+              "id": 31,
+              "name": "Fahad Raza",
+              "email": "fahad.raza@example.com",
+              "password": "fahadSecure6"
+            },
+            {
+              "id": 32,
+              "name": "Amirah Nasir",
+              "email": "amirah.nasir@example.com",
+              "password": "amirahStrong!"
+            },
+            {
+              "id": 33,
+              "name": "Saifullah Tariq",
+              "email": "saifullah.tariq@example.com",
+              "password": "saifSecure7"
+            },
+            {
+              "id": 34,
+              "name": "Alaa Shakir",
+              "email": "alaa.shakir@example.com",
+              "password": "alaaPass8"
+            },
+            {
+              "id": 35,
+              "name": "Farah Junaid",
+              "email": "farah.junaid@example.com",
+              "password": "farahSecure9"
+            },
+            {
+              "id": 36,
+              "name": "Usman Haider",
+              "email": "usman.haider@example.com",
+              "password": "usman1234"
+            },
+            {
+              "id": 37,
+              "name": "Nabeela Aslam",
+              "email": "nabeela.aslam@example.com",
+              "password": "nabeelaPass1"
+            }
+            
+          
+    ],
+    "students": [
+          {
+            "full_name": "Ahmed Ali",
+            "email": "ahmed.ali@example.com",
+            "dob": "2002-05-14",
+            "selected_course": "Computer Science",
+            "gender": "Male",
+            "city": "Karachi"
+          },
+          {
+            "full_name": "Fatima Noor",
+            "email": "fatima.noor@example.com",
+            "dob": "2001-08-22",
+            "selected_course": "Data Science",
+            "gender": "Female",
+            "city": "Lahore"
+          },
+          {
+            "full_name": "Hassan Khan",
+            "email": "hassan.khan@example.com",
+            "dob": "1999-12-03",
+            "selected_course": "Artificial Intelligence",
+            "gender": "Male",
+            "city": "Islamabad"
+          },
+          {
+            "full_name": "Ayesha Siddiqui",
+            "email": "ayesha.siddiqui@example.com",
+            "dob": "2000-07-18",
+            "selected_course": "Cybersecurity",
+            "gender": "Female",
+            "city": "Cairo"
+          },
+          {
+            "full_name": "Muhammad Usman",
+            "email": "muhammad.usman@example.com",
+            "dob": "1998-11-29",
+            "selected_course": "Cloud Computing",
+            "gender": "Male",
+            "city": "Dubai"
+          },
+          {
+            "full_name": "Zainab Ahmed",
+            "email": "zainab.ahmed@example.com",
+            "dob": "2003-03-15",
+            "selected_course": "Machine Learning",
+            "gender": "Female",
+            "city": "Riyadh"
+          },
+          {
+            "full_name": "Bilal Sheikh",
+            "email": "bilal.sheikh@example.com",
+            "dob": "2000-01-21",
+            "selected_course": "Data Engineering",
+            "gender": "Male",
+            "city": "Jeddah"
+          },
+          {
+            "full_name": "Sumaiya Iqbal",
+            "email": "sumaiya.iqbal@example.com",
+            "dob": "2002-09-09",
+            "selected_course": "Software Engineering",
+            "gender": "Female",
+            "city": "Istanbul"
+          },
+          {
+            "full_name": "Omar Hassan",
+            "email": "omar.hassan@example.com",
+            "dob": "1997-06-30",
+            "selected_course": "Web Development",
+            "gender": "Male",
+            "city": "Kuala Lumpur"
+          },
+          {
+            "full_name": "Maryam Tariq",
+            "email": "maryam.tariq@example.com",
+            "dob": "2004-02-25",
+            "selected_course": "Game Development",
+            "gender": "Female",
+            "city": "Jakarta"
+          },
+          {
+            "full_name": "Ibrahim Farooq",
+            "email": "ibrahim.farooq@example.com",
+            "dob": "2001-07-10",
+            "selected_course": "Blockchain Technology",
+            "gender": "Male",
+            "city": "Baghdad"
+          },
+          {
+            "full_name": "Sana Malik",
+            "email": "sana.malik@example.com",
+            "dob": "1996-12-17",
+            "selected_course": "Robotics",
+            "gender": "Female",
+            "city": "Tehran"
+          },
+          {
+            "full_name": "Yusuf Abdullah",
+            "email": "yusuf.abdullah@example.com",
+            "dob": "1998-04-19",
+            "selected_course": "Augmented Reality",
+            "gender": "Male",
+            "city": "Ankara"
+          },
+          {
+            "full_name": "Hiba Saeed",
+            "email": "hiba.saeed@example.com",
+            "dob": "2000-11-08",
+            "selected_course": "Network Security",
+            "gender": "Female",
+            "city": "Beirut"
+          },
+          {
+            "full_name": "Abdullah Zaman",
+            "email": "abdullah.zaman@example.com",
+            "dob": "2003-08-02",
+            "selected_course": "Big Data",
+            "gender": "Male",
+            "city": "Kabul"
+          },
+          {
+            "full_name": "Nadia Karim",
+            "email": "nadia.karim@example.com",
+            "dob": "1999-03-12",
+            "selected_course": "Ethical Hacking",
+            "gender": "Female",
+            "city": "Muscat"
+          },
+          {
+            "full_name": "Ali Raza",
+            "email": "ali.raza@example.com",
+            "dob": "2001-09-30",
+            "selected_course": "Cloud Computing",
+            "gender": "Male",
+            "city": "Damascus"
+          },
+          {
+            "full_name": "Amna Javed",
+            "email": "amna.javed@example.com",
+            "dob": "2004-05-18",
+            "selected_course": "IoT",
+            "gender": "Female",
+            "city": "Doha"
+          },
+          {
+            "full_name": "Fahad Hussain",
+            "email": "fahad.hussain@example.com",
+            "dob": "1995-10-11",
+            "selected_course": "Virtual Reality",
+            "gender": "Male",
+            "city": "Tunis"
+          },
+          {
+            "full_name": "Rabia Younis",
+            "email": "rabia.younis@example.com",
+            "dob": "1997-01-29",
+            "selected_course": "Data Analytics",
+            "gender": "Female",
+            "city": "Algiers"
+          },
+          {
+            "full_name": "Zaid Ahmed",
+            "email": "zaid.ahmed@example.com",
+            "dob": "2003-06-06",
+            "selected_course": "Natural Language Processing",
+            "gender": "Male",
+            "city": "Tripoli"
+          },
+          {
+            "full_name": "Aminah Siddiq",
+            "email": "aminah.siddiq@example.com",
+            "dob": "2000-02-19",
+            "selected_course": "Computer Vision",
+            "gender": "Female",
+            "city": "Moroni"
+          },
+          {
+            "full_name": "Tariq Latif",
+            "email": "tariq.latif@example.com",
+            "dob": "1998-08-14",
+            "selected_course": "Cybersecurity",
+            "gender": "Male",
+            "city": "Dhaka"
+          },
+          {
+            "full_name": "Layla Hassan",
+            "email": "layla.hassan@example.com",
+            "dob": "2001-12-24",
+            "selected_course": "AI Ethics",
+            "gender": "Female",
+            "city": "Amman"
+          },
+          {
+            "full_name": "Saad Mir",
+            "email": "saad.mir@example.com",
+            "dob": "2004-09-16",
+            "selected_course": "DevOps",
+            "gender": "Male",
+            "city": "Kuwait City"
+          },
+          {
+            "full_name": "Noor Hasan",
+            "email": "noor.hasan@example.com",
+            "dob": "1996-11-03",
+            "selected_course": "Deep Learning",
+            "gender": "Female",
+            "city": "Dubai"
+          },
+          {
+            "full_name": "Mohammed Tariq",
+            "email": "mohammed.tariq@example.com",
+            "dob": "1998-01-20",
+            "selected_course": "Mobile App Development",
+            "gender": "Male",
+            "city": "Makkah"
+          },
+          {
+            "full_name": "Hafsa Yousuf",
+            "email": "hafsa.yousuf@example.com",
+            "dob": "2000-07-18",
+            "selected_course": "Blockchain",
+            "gender": "Female",
+            "city": "Medina"
+          },
+          {
+            "full_name": "Rayan Ahmed",
+            "email": "rayan.ahmed@example.com",
+            "dob": "2004-03-04",
+            "selected_course": "AI Research",
+            "gender": "Male",
+            "city": "Manama"
+          },
+          {
+            "full_name": "Khadija Khan",
+            "email": "khadija.khan@example.com",
+            "dob": "2002-06-29",
+            "selected_course": "Data Analytics",
+            "gender": "Female",
+            "city": "Jeddah"
+          },
+          {
+            "full_name": "Omar Faisal",
+            "email": "omar.faisal@example.com",
+            "dob": "2001-08-12",
+            "selected_course": "Game Development",
+            "gender": "Male",
+            "city": "Riyadh"
+      }
+      ],
+
+      "teachers": [
+          {
+            "full_name": "Dr. Ahmed Raza",
+            "email": "ahmed.raza@example.com",
+            "dob": "1980-04-15",
+            "gender": "Male",
+            "city": "Karachi",
+            "highest_qualification": "PhD in Computer Science",
+            "teaching_experience": "15 years",
+            "courses_taught": ["Algorithms", "Data Structures", "Machine Learning"]
+          },
+          {
+            "full_name": "Ms. Fatima Noor",
+            "email": "fatima.noor@example.com",
+            "dob": "1985-07-22",
+            "gender": "Female",
+            "city": "Lahore",
+            "highest_qualification": "MSc in Mathematics",
+            "teaching_experience": "10 years",
+            "courses_taught": ["Linear Algebra", "Calculus", "Discrete Mathematics"]
+          },
+          {
+            "full_name": "Dr. Hassan Tariq",
+            "email": "hassan.tariq@example.com",
+            "dob": "1978-11-30",
+            "gender": "Male",
+            "city": "Islamabad",
+            "highest_qualification": "PhD in Artificial Intelligence",
+            "teaching_experience": "18 years",
+            "courses_taught": ["Artificial Intelligence", "Neural Networks", "Robotics"]
+          },
+          {
+            "full_name": "Prof. Ayesha Siddiqui",
+            "email": "ayesha.siddiqui@example.com",
+            "dob": "1983-03-18",
+            "gender": "Female",
+            "city": "Cairo",
+            "highest_qualification": "MSc in Cybersecurity",
+            "teaching_experience": "12 years",
+            "courses_taught": ["Network Security", "Ethical Hacking", "Cryptography"]
+          },
+          {
+            "full_name": "Mr. Bilal Ahmed",
+            "email": "bilal.ahmed@example.com",
+            "dob": "1975-09-29",
+            "gender": "Male",
+            "city": "Dubai",
+            "highest_qualification": "PhD in Cloud Computing",
+            "teaching_experience": "20 years",
+            "courses_taught": ["Cloud Computing", "Virtualization", "Distributed Systems"]
+          },
+          {
+            "full_name": "Dr. Zainab Malik",
+            "email": "zainab.malik@example.com",
+            "dob": "1987-05-12",
+            "gender": "Female",
+            "city": "Riyadh",
+            "highest_qualification": "PhD in Data Science",
+            "teaching_experience": "14 years",
+            "courses_taught": ["Big Data", "Data Visualization", "Machine Learning"]
+          },
+          {
+            "full_name": "Mr. Tariq Usman",
+            "email": "tariq.usman@example.com",
+            "dob": "1981-01-21",
+            "gender": "Male",
+            "city": "Jeddah",
+            "highest_qualification": "MSc in Software Engineering",
+            "teaching_experience": "11 years",
+            "courses_taught": ["Software Development", "Object-Oriented Programming", "Agile Methodologies"]
+          },
+          {
+            "full_name": "Ms. Sumaiya Iqbal",
+            "email": "sumaiya.iqbal@example.com",
+            "dob": "1989-09-10",
+            "gender": "Female",
+            "city": "Istanbul",
+            "highest_qualification": "PhD in Computer Vision",
+            "teaching_experience": "8 years",
+            "courses_taught": ["Computer Vision", "Image Processing", "Deep Learning"]
+          },
+          {
+            "full_name": "Dr. Omar Hassan",
+            "email": "omar.hassan@example.com",
+            "dob": "1973-06-25",
+            "gender": "Male",
+            "city": "Kuala Lumpur",
+            "highest_qualification": "PhD in Web Technologies",
+            "teaching_experience": "22 years",
+            "courses_taught": ["Web Development", "UI/UX Design", "Backend Development"]
+          },
+          {
+            "full_name": "Ms. Maryam Tariq",
+            "email": "maryam.tariq@example.com",
+            "dob": "1985-02-05",
+            "gender": "Female",
+            "city": "Jakarta",
+            "highest_qualification": "MSc in Game Development",
+            "teaching_experience": "9 years",
+            "courses_taught": ["Game Development", "3D Modeling", "Interactive Media"]
+          },
+          {
+            "full_name": "Dr. Ibrahim Farooq",
+            "email": "ibrahim.farooq@example.com",
+            "dob": "1980-07-15",
+            "gender": "Male",
+            "city": "Baghdad",
+            "highest_qualification": "PhD in Blockchain Technology",
+            "teaching_experience": "16 years",
+            "courses_taught": ["Blockchain Basics", "Smart Contracts", "Cryptocurrency"]
+          },
+          {
+            "full_name": "Prof. Sana Malik",
+            "email": "sana.malik@example.com",
+            "dob": "1978-10-25",
+            "gender": "Female",
+            "city": "Tehran",
+            "highest_qualification": "PhD in Robotics",
+            "teaching_experience": "19 years",
+            "courses_taught": ["Robotics", "Automation", "AI Integration"]
+          },
+          {
+            "full_name": "Mr. Yusuf Abdullah",
+            "email": "yusuf.abdullah@example.com",
+            "dob": "1986-03-17",
+            "gender": "Male",
+            "city": "Ankara",
+            "highest_qualification": "MSc in Augmented Reality",
+            "teaching_experience": "10 years",
+            "courses_taught": ["Augmented Reality", "Virtual Reality", "Mixed Reality"]
+          },
+          {
+            "full_name": "Dr. Hiba Saeed",
+            "email": "hiba.saeed@example.com",
+            "dob": "1984-12-29",
+            "gender": "Female",
+            "city": "Beirut",
+            "highest_qualification": "PhD in Natural Language Processing",
+            "teaching_experience": "13 years",
+            "courses_taught": ["NLP", "Text Analytics", "Language Models"]
+          },
+          {
+            "full_name": "Dr. Abdullah Zaman",
+            "email": "abdullah.zaman@example.com",
+            "dob": "1977-08-14",
+            "gender": "Male",
+            "city": "Kabul",
+            "highest_qualification": "PhD in Big Data",
+            "teaching_experience": "21 years",
+            "courses_taught": ["Big Data", "Data Mining", "Predictive Analytics"]
+          },
+          {
+            "full_name": "Prof. Nadia Karim",
+            "email": "nadia.karim@example.com",
+            "dob": "1983-04-03",
+            "gender": "Female",
+            "city": "Muscat",
+            "highest_qualification": "PhD in Ethical Hacking",
+            "teaching_experience": "12 years",
+            "courses_taught": ["Ethical Hacking", "Cybersecurity", "Risk Management"]
+          },
+          {
+            "full_name": "Mr. Ali Raza",
+            "email": "ali.raza@example.com",
+            "dob": "1982-09-15",
+            "gender": "Male",
+            "city": "Damascus",
+            "highest_qualification": "PhD in IoT",
+            "teaching_experience": "14 years",
+            "courses_taught": ["IoT Basics", "IoT Security", "Embedded Systems"]
+          },
+          {
+            "full_name": "Ms. Amna Javed",
+            "email": "amna.javed@example.com",
+            "dob": "1989-11-22",
+            "gender": "Female",
+            "city": "Doha",
+            "highest_qualification": "MSc in Data Analytics",
+            "teaching_experience": "8 years",
+            "courses_taught": ["Data Analytics", "Business Intelligence", "SQL"]
+      }
+      ],
+
+        "courses": [
+          {
+            "course_id": "CS101",
+            "course_name": "Introduction to Programming",
+            "course_title": "Learn the Basics of Programming",
+            "course_category": "Computer Science",
+            "description": "An introductory course that teaches the basics of programming languages such as Python and JavaScript.",
+            "image": "https://example.com/images/programming.jpg",
+            "price": 99.99,
+            "rating": 4.8
+          },
+          {
+            "course_id": "DS201",
+            "course_name": "Data Science Fundamentals",
+            "course_title": "Master the Fundamentals of Data Science",
+            "course_category": "Data Science",
+            "description": "Explore key concepts in data analysis, statistics, and machine learning with this foundational course.",
+            "image": "https://example.com/images/datascience.jpg",
+            "price": 149.99,
+            "rating": 4.9
+          },
+          {
+            "course_id": "AI301",
+            "course_name": "Artificial Intelligence Basics",
+            "course_title": "Introduction to AI and Machine Learning",
+            "course_category": "Artificial Intelligence",
+            "description": "Learn about AI principles, including neural networks and deep learning, in this beginner-friendly course.",
+            "image": "https://example.com/images/ai.jpg",
+            "price": 199.99,
+            "rating": 4.7
+          },
+          {
+            "course_id": "CY401",
+            "course_name": "Cybersecurity Essentials",
+            "course_title": "Defend Against Cyber Threats",
+            "course_category": "Cybersecurity",
+            "description": "Discover strategies for securing systems and networks against potential cyber threats.",
+            "image": "https://example.com/images/cybersecurity.jpg",
+            "price": 129.99,
+            "rating": 4.5
+          },
+          {
+            "course_id": "WD501",
+            "course_name": "Web Development",
+            "course_title": "Build Stunning Websites",
+            "course_category": "Web Development",
+            "description": "A comprehensive course on HTML, CSS, JavaScript, and modern frameworks like React.",
+            "image": "https://example.com/images/webdevelopment.jpg",
+            "price": 119.99,
+            "rating": 4.6
+          },
+          {
+            "course_id": "ML601",
+            "course_name": "Machine Learning",
+            "course_title": "Unlock the Power of AI",
+            "course_category": "Machine Learning",
+            "description": "Gain in-depth knowledge of machine learning algorithms and their applications.",
+            "image": "https://example.com/images/machinelearning.jpg",
+            "price": 249.99,
+            "rating": 4.9
+          },
+          {
+            "course_id": "AR701",
+            "course_name": "Augmented Reality",
+            "course_title": "Explore the World of AR",
+            "course_category": "Augmented Reality",
+            "description": "Learn about AR technologies and how to create immersive experiences.",
+            "image": "https://example.com/images/augmentedreality.jpg",
+            "price": 179.99,
+            "rating": 4.8
+          },
+          {
+            "course_id": "BD801",
+            "course_name": "Big Data Analytics",
+            "course_title": "Make Sense of Big Data",
+            "course_category": "Data Science",
+            "description": "Learn how to manage and analyze massive datasets using modern tools and techniques.",
+            "image": "https://example.com/images/bigdata.jpg",
+            "price": 199.99,
+            "rating":4.7
+      }
+      ]
+}
+      
+
+        
+        
+      
